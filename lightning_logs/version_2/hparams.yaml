@@ -1,0 +1,4 @@
+batch_size: 256
+lr: 0.001
+max_error: 100.0
+num_workers: 4
